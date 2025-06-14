@@ -1,3 +1,8 @@
+# ALUNOS:
+## Luis Mateus dos Reis Faria
+## Kaio Monteiro de Oliveira
+## Matheus Henrique Garcia Queiroz
+
 # Sistema de E-commerce: Gerenciamento de Pedidos com Padrões de Design
 
 ## Visão Geral do Projeto
